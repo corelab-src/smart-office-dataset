@@ -63,7 +63,7 @@ Along with the sensor data, the dataset also includes randomly generated rules t
 * [`ItemValue.mat`](dataset/ItemValue.mat): Acquired values of the data items
 
 ### Events
-* [`EventList.mat`](dataset/EvetList.mat): List of 10 events
+* [`EventList.mat`](dataset/EventList.mat): List of 10 events
 
 ### Rules
 * [`RuleTable_Large.mat`](dataset/RuleTable_Large.mat): List of 200 rules using the entire set of the data items
