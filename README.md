@@ -15,6 +15,7 @@ In the testbed, we use the following 19 IoT devices:
 6. 3 Sound Sensors
 7. 1 Philips Hue
 8. 2 Belkin Wemo Switches
+
 The dataset contains the information about which device each data item belongs to.
   
 Along with the sensor data, the dataset also includes randomly generated rules that use the data items. 
