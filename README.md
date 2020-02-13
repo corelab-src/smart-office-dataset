@@ -1,7 +1,6 @@
-Smart Office Dataset
-===============
+# Smart Office Dataset
 
-# Overview
+## Overview
 
 This smart office dataset includes sensor data acquired from IoT devices during 144 hours on our smart office testbed. During the 144 hours, one agent (irregularly) conducts a set of prescribed actions such as open the window. The following figure shows the floor plan of our smart office testbed.
 
@@ -20,11 +19,11 @@ The dataset contains the information about which device each data item belongs t
   
 Along with the sensor data, the dataset also includes randomly generated rules that use the data items. 
 
-# Requirement
+## Requirement
 
 - Matlab R2018a or higher: the dataset employs Matlab classes to represent data items, events, and rules
 
-# Class Definition
+## Class Definition
 * [`DataItem`](classes/DataItem.m)
   - `Device`   : Device that owns data item
   - `Location` : Location of parent device
@@ -56,20 +55,20 @@ Along with the sensor data, the dataset also includes randomly generated rules t
   - `CompOp`   : Comparative operator
   - `Value`    : Data item value to compare
  
-# Dataset Description
+## Dataset Description
 
-## Data Items
+### Data Items
 * [`ItemList.mat`](dataset/ItemList.mat): List of 26 data items in the testbed
 * [`ItemValue.mat`](dataset/ItemValue.mat): Acquired values of the data items
 
-## Events
+### Events
 * [`EventList.mat`](dataset/EvetList.mat): List of 10 events
 
-## Rules
+### Rules
 * [`RuleTable_Large.mat`](dataset/RuleTable_Large.mat): List of 200 rules using the entire set of the data items
 * [`RuleTable_Small.mat`](dataset/RuleTable_Small.mat): List of 200 rules using the partial set of the data items
 
-# Reference
+## Reference
 
 TBD 
 
