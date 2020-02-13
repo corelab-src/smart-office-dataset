@@ -3,7 +3,7 @@ Smart Office Dataset
 
 # Overview
 
-This smart office dataset includes sensor data acquired from IoT devices during 144 hours on our smart office testbed. During the 144 hours, one agent (irregularly) conducts a set of prescribed actions such as open the window.
+This smart office dataset includes sensor data acquired from IoT devices during 144 hours on our smart office testbed. During the 144 hours, one agent (irregularly) conducts a set of prescribed actions such as open the window. The following figure shows the floor plan of our smart office testbed.
 
 ![Floor Plan of Our Smart Office Testbed](documents/testbed.jpg)
 
