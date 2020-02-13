@@ -5,19 +5,20 @@ Smart Office Dataset
 
 This smart office dataset includes sensor data acquired from IoT devices during 144 hours on our smart office testbed. During the 144 hours, one agent (irregularly) conducts a set of prescribed actions such as open the window.
 
-![Floor Plan of Our Smart Office Testbed](documents/testbed.pdf)
+![Floor Plan of Our Smart Office Testbed](documents/testbed.jpg)
 
 In the testbed, we use the following 19 IoT devices:
-1. 2 x SmartSense Motion Sensor
-2. 2 x SmartSense Multipurpose Sensor
-3. 3 x Temperature-Humidify Sensor
-4. 3 x Ultrasonic Sensor
-5. 3 x Light Sensor
-6. 3 x Sound Sensor
-7. 1 x Philips Hue
-8. 2 x Belkin Wemo Switch
+1. 2 SmartSense Motion Sensors
+2. 2 SmartSense Multipurpose Sensors
+3. 3 Temperature-Humidify Sensors
+4. 3 Ultrasonic Sensors
+5. 3 Light Sensors
+6. 3 Sound Sensors
+7. 1 Philips Hue
+8. 2 Belkin Wemo Switches
+The dataset contains the information about which device each data item belongs to.
   
-This smart office dataset also includes randomly generated rules that use the data items. 
+Along with the sensor data, the dataset also includes randomly generated rules that use the data items. 
 
 # Requirement
 
@@ -67,4 +68,8 @@ This smart office dataset also includes randomly generated rules that use the da
 ## Rules
 * [`RuleTable_Large.mat`](dataset/RuleTable_Large.mat): List of 200 rules using the entire set of the data items
 * [`RuleTable_Small.mat`](dataset/RuleTable_Small.mat): List of 200 rules using the partial set of the data items
+
+# Reference
+
+TBD 
 
