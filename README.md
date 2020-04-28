@@ -73,4 +73,4 @@ Along with the sensor data, the dataset also includes randomly generated rules t
 
 Sharing-aware Data Acquisition Scheduling for Multiple Rules in the IoT  
 Seonyeong Heo, Seungbin Song, Bongjun Kim, and Hanjun Kim  
-To Appear: Proceedings of the IEEE Real-Time And Embedded Technology And Applications Symposium (RTAS), April 2020.  
+Proceedings of the IEEE Real-Time And Embedded Technology And Applications Symposium (RTAS), April 2020.  
